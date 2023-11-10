@@ -1,0 +1,282 @@
+{
+  "1038": {
+    "id": 1038,
+    "dbname": "OSIRIS",
+    "name": { "en": "Osiris", "pt-BR": "Osíris" },
+    "stats": { "baseExperience": 122760, "jobExperience": 100440, "mvp": 1 },
+    "spawn": [{ "mapname": "moc_pryd04", "respawnTime": 3600000 }]
+  },
+  "1039": {
+    "id": 1039,
+    "dbname": "BAPHOMET",
+    "name": { "en": "Baphomet", "pt-BR": "Bafomé" },
+    "stats": { "baseExperience": 218089, "jobExperience": 167053, "mvp": 1 },
+    "spawn": [
+      { "mapname": "gld_dun03", "respawnTime": 28800000 },
+      { "mapname": "prt_maze03", "respawnTime": 7200000 }
+    ]
+  },
+  "1046": {
+    "id": 1046,
+    "dbname": "DOPPELGANGER",
+    "name": { "en": "Doppelganger", "pt-BR": "Doppelganger" },
+    "stats": { "baseExperience": 172260, "jobExperience": 125280, "mvp": 1 },
+    "spawn": [
+      { "mapname": "gef_dun02", "respawnTime": 7200000 },
+      { "mapname": "gld_dun04", "respawnTime": 28800000 }
+    ]
+  },
+  "1059": {
+    "id": 1059,
+    "dbname": "MISTRESS",
+    "name": { "en": "Mistress", "pt-BR": "Abelha-Rainha" },
+    "stats": { "baseExperience": 184140, "jobExperience": 150660, "mvp": 1 },
+    "spawn": [
+      { "mapname": "gld_dun02", "respawnTime": 28800000 },
+      { "mapname": "mjolnir_04", "respawnTime": 7200000 }
+    ]
+  },
+  "1086": {
+    "id": 1086,
+    "dbname": "GOLDEN_BUG",
+    "name": { "en": "Golden Thief Bug", "pt-BR": "Besouro-Ladrão Dourado" },
+    "stats": { "baseExperience": 102060, "jobExperience": 77760, "mvp": 1 },
+    "spawn": [{ "mapname": "prt_sewb4", "respawnTime": 3600000 }]
+  },
+  "1087": {
+    "id": 1087,
+    "dbname": "ORK_HERO",
+    "name": { "en": "Orc Hero", "pt-BR": "Orc Herói" },
+    "stats": { "baseExperience": 53460, "jobExperience": 48600, "mvp": 1 },
+    "spawn": [{ "mapname": "gef_fild03", "respawnTime": 3600000 }]
+  },
+  "1112": {
+    "id": 1112,
+    "dbname": "DRAKE",
+    "name": { "en": "Drake", "pt-BR": "Drake" },
+    "stats": { "baseExperience": 309096, "jobExperience": 208980, "mvp": 1 },
+    "spawn": [{ "mapname": "treasure02", "respawnTime": 7200000 }]
+  },
+  "1115": {
+    "id": 1115,
+    "dbname": "EDDGA",
+    "name": { "en": "Eddga", "pt-BR": "Eddga" },
+    "stats": { "baseExperience": 103950, "jobExperience": 74250, "mvp": 1 },
+    "spawn": [
+      { "mapname": "gld_dun01_2", "respawnTime": 28800000 },
+      { "mapname": "pay_fild10", "respawnTime": 7200000 }
+    ]
+  },
+  "1147": {
+    "id": 1147,
+    "dbname": "MAYA",
+    "name": { "en": "Maya", "pt-BR": "Maya" },
+    "stats": { "baseExperience": 89280, "jobExperience": 66960, "mvp": 1 },
+    "spawn": [
+      { "mapname": "anthell02", "respawnTime": 7200000 },
+      { "mapname": "gld_dun02_2", "respawnTime": 28800000 }
+    ]
+  },
+  "1150": {
+    "id": 1150,
+    "dbname": "MOONLIGHT",
+    "name": { "en": "Moonlight Flower", "pt-BR": "Flor do Luar" },
+    "stats": { "baseExperience": 183744, "jobExperience": 135720, "mvp": 1 },
+    "spawn": [
+      { "mapname": "gld_dun01", "respawnTime": 28800000 },
+      { "mapname": "pay_dun04", "respawnTime": 3600000 }
+    ]
+  },
+  "1157": {
+    "id": 1157,
+    "dbname": "PHARAOH",
+    "name": { "en": "Pharaoh", "pt-BR": "Faraó" },
+    "stats": { "baseExperience": 229680, "jobExperience": 167040, "mvp": 1 },
+    "spawn": [{ "mapname": "in_sphinx5", "respawnTime": 3600000 }]
+  },
+  "1159": {
+    "id": 1159,
+    "dbname": "PHREEONI",
+    "name": { "en": "Phreeoni", "pt-BR": "Freeoni" },
+    "stats": { "baseExperience": 63800, "jobExperience": 90000, "mvp": 1 },
+    "spawn": [{ "mapname": "moc_fild17", "respawnTime": 7200000 }]
+  },
+  "1190": {
+    "id": 1190,
+    "dbname": "ORC_LORD",
+    "name": { "en": "Orc Lord", "pt-BR": "Senhor dos Orcs" },
+    "stats": { "baseExperience": 78120, "jobExperience": 61380, "mvp": 1 },
+    "spawn": [{ "mapname": "gef_fild10", "respawnTime": 7200000 }]
+  },
+  "1251": {
+    "id": 1251,
+    "dbname": "KNIGHT_OF_WINDSTORM",
+    "name": { "en": "Stormy Knight", "pt-BR": "Cavaleiro da Tempestade" },
+    "stats": { "baseExperience": 248280, "jobExperience": 151100, "mvp": 1 },
+    "spawn": [{ "mapname": "xmas_dun02", "respawnTime": 3600000 }]
+  },
+  "1252": {
+    "id": 1252,
+    "dbname": "GARM",
+    "name": { "en": "Hatii", "pt-BR": "Hatii" },
+    "stats": { "baseExperience": 455328, "jobExperience": 306900, "mvp": 1 },
+    "spawn": [{ "mapname": "xmas_fild01", "respawnTime": 7200000 }]
+  },
+  "1272": {
+    "id": 1272,
+    "dbname": "DARK_LORD",
+    "name": { "en": "Dark Lord", "pt-BR": "Senhor das Trevas" },
+    "stats": { "baseExperience": 428544, "jobExperience": 279000, "mvp": 1 },
+    "spawn": [
+      { "mapname": "gl_chyard", "respawnTime": 3600000 },
+      { "mapname": "gl_chyard_", "respawnTime": 3600000 },
+      { "mapname": "gld_dun04_2", "respawnTime": 28800000 }
+    ]
+  },
+  "1312": {
+    "id": 1312,
+    "dbname": "TURTLE_GENERAL",
+    "name": { "en": "Turtle General", "pt-BR": "General Tartaruga" },
+    "stats": { "baseExperience": 559872, "jobExperience": 411642, "mvp": 1 },
+    "spawn": [{ "mapname": "tur_dun04", "respawnTime": 3600000 }]
+  },
+  "1373": {
+    "id": 1373,
+    "dbname": "LORD_OF_DEATH",
+    "name": { "en": "Lord of the Dead", "pt-BR": "Senhor dos Mortos" },
+    "stats": { "baseExperience": 262272, "jobExperience": 172626, "mvp": 1 },
+    "spawn": [{ "mapname": "niflheim", "respawnTime": 7980000 }]
+  },
+  "1389": {
+    "id": 1389,
+    "dbname": "DRACULA",
+    "name": { "en": "Dracula", "pt-BR": "Drácula" },
+    "stats": { "baseExperience": 171864, "jobExperience": 122760, "mvp": 1 },
+    "spawn": [{ "mapname": "gef_dun01", "respawnTime": 3600000 }]
+  },
+  "1418": {
+    "id": 1418,
+    "dbname": "DARK_SNAKE_LORD",
+    "name": { "en": "Evil Snake Lord", "pt-BR": "Serpente Suprema" },
+    "stats": { "baseExperience": 432000, "jobExperience": 346500, "mvp": 1 },
+    "spawn": [{ "mapname": "gon_dun03", "respawnTime": 5650000 }]
+  },
+  "1492": {
+    "id": 1492,
+    "dbname": "INCANTATION_SAMURAI",
+    "name": { "en": "Samurai Specter", "pt-BR": "Samurai Encarnado" },
+    "stats": { "baseExperience": 451008, "jobExperience": 327294, "mvp": 1 },
+    "spawn": [{ "mapname": "ama_dun03", "respawnTime": 5460000 }]
+  },
+  "1511": {
+    "id": 1511,
+    "dbname": "AMON_RA",
+    "name": { "en": "Amon Ra", "pt-BR": "Amon Ra" },
+    "stats": { "baseExperience": 120060, "jobExperience": 93960, "mvp": 1 },
+    "spawn": [{ "mapname": "moc_pryd06", "respawnTime": 3600000 }]
+  },
+  "1583": {
+    "id": 1583,
+    "dbname": "TAO_GUNKA",
+    "name": { "en": "Tao Gunka", "pt-BR": "Tao Gunka" },
+    "stats": { "baseExperience": 540000, "jobExperience": 396000, "mvp": 1 },
+    "spawn": [{ "mapname": "beach_dun", "respawnTime": 18000000 }]
+  },
+  "1623": {
+    "id": 1623,
+    "dbname": "RSX_0806",
+    "name": { "en": "RSX-0806", "pt-BR": "RSX-0806" },
+    "stats": { "baseExperience": 432000, "jobExperience": 316800, "mvp": 1 },
+    "spawn": [{ "mapname": "ein_dun02", "respawnTime": 7500000 }]
+  },
+  "1630": {
+    "id": 1630,
+    "dbname": "BACSOJIN_",
+    "name": { "en": "White Lady", "pt-BR": "Lady Branca" },
+    "stats": { "baseExperience": 400896, "jobExperience": 271440, "mvp": 1 },
+    "spawn": [{ "mapname": "lou_dun03", "respawnTime": 7000000 }]
+  },
+  "1658": {
+    "id": 1658,
+    "dbname": "B_YGNIZEM",
+    "name": { "en": "Egnigem Cenia", "pt-BR": "Espadachim Egnigem" },
+    "stats": { "baseExperience": 685360, "jobExperience": 1023000, "mvp": 1 },
+    "spawn": [{ "mapname": "lhz_dun02", "respawnTime": 7200000 }]
+  },
+  "1685": {
+    "id": 1685,
+    "dbname": "APOCALIPS_H",
+    "name": { "en": "Vesper", "pt-BR": "Vesper" },
+    "stats": { "baseExperience": 1755000, "jobExperience": 1237500, "mvp": 1 },
+    "spawn": [{ "mapname": "jupe_core", "respawnTime": 7200000 }]
+  },
+  "1688": {
+    "id": 1688,
+    "dbname": "LADY_TANEE",
+    "name": { "en": "Lady Tanee", "pt-BR": "Lady Tanee" },
+    "stats": { "baseExperience": 183744, "jobExperience": 130500, "mvp": 1 },
+    "spawn": [{ "mapname": "ayo_dun02", "respawnTime": 25200000 }]
+  },
+  "1719": {
+    "id": 1719,
+    "dbname": "DETALE",
+    "name": { "en": "Detardeurus", "pt-BR": "Detardeurus" },
+    "stats": { "baseExperience": 2808000, "jobExperience": 1881000, "mvp": 1 },
+    "spawn": [{ "mapname": "abyss_03", "respawnTime": 10800000 }]
+  },
+  "1734": {
+    "id": 1734,
+    "dbname": "KIEL_",
+    "name": { "en": "Kiel D-01", "pt-BR": "Kiel-D-01" },
+    "stats": { "baseExperience": 1170000, "jobExperience": 792000, "mvp": 1 },
+    "spawn": [{ "mapname": "kh_dun02", "respawnTime": 7200000 }]
+  },
+  "1751": {
+    "id": 1751,
+    "dbname": "RANDGRIS",
+    "name": { "en": "Valkyrie Randgris", "pt-BR": "Valquíria Randgris" },
+    "stats": { "baseExperience": 1300000, "jobExperience": 1210000, "mvp": 1 },
+    "spawn": [{ "mapname": "odin_tem03", "respawnTime": 28800000 }]
+  },
+  "1768": {
+    "id": 1768,
+    "dbname": "GLOOMUNDERNIGHT",
+    "name": { "en": "Gloom Under Night", "pt-BR": "Pesar Noturno" },
+    "stats": { "baseExperience": 1404000, "jobExperience": 990000, "mvp": 1 },
+    "spawn": [{ "mapname": "ra_san05", "respawnTime": 18000000 }]
+  },
+  "1785": {
+    "id": 1785,
+    "dbname": "ATROCE",
+    "name": { "en": "Atroce", "pt-BR": "Atroce" },
+    "stats": { "baseExperience": 702000, "jobExperience": 470250, "mvp": 1 },
+    "spawn": [
+      { "mapname": "gld_dun03_2", "respawnTime": 28800000 },
+      { "mapname": "ra_fild03", "respawnTime": 10800000 },
+      { "mapname": "ra_fild04", "respawnTime": 18000000 },
+      { "mapname": "ve_fild01", "respawnTime": 10800000 },
+      { "mapname": "ve_fild02", "respawnTime": 21600000 }
+    ]
+  },
+  "1832": {
+    "id": 1832,
+    "dbname": "IFRIT",
+    "name": { "en": "Ifrit", "pt-BR": "Ifrit" },
+    "stats": { "baseExperience": 4352400, "jobExperience": 2673000, "mvp": 1 },
+    "spawn": [{ "mapname": "thor_v03", "respawnTime": 39600000 }]
+  },
+  "1871": {
+    "id": 1871,
+    "dbname": "FALLINGBISHOP",
+    "name": { "en": "Falling Bishop", "pt-BR": "Bispo Decadente" },
+    "stats": { "baseExperience": 1755000, "jobExperience": 1039500, "mvp": 1 },
+    "spawn": [{ "mapname": "abbey02", "respawnTime": 7200000 }]
+  },
+  "1874": {
+    "id": 1874,
+    "dbname": "BEELZEBUB_",
+    "name": { "en": "Beelzebub", "pt-BR": "Belzebu" },
+    "stats": { "baseExperience": 4582500, "jobExperience": 3877500, "mvp": 1 },
+    "spawn": [{ "mapname": "abbey03", "respawnTime": 43200000 }]
+  }
+}

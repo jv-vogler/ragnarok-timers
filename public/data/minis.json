@@ -1,0 +1,149 @@
+{
+  "1089": {
+    "id": 1089,
+    "dbname": "TOAD",
+    "name": { "en": "Toad", "pt-BR": "Sapo-Cururu" },
+    "stats": { "baseExperience": 81, "jobExperience": 91, "mvp": 0 },
+    "spawn": [
+      { "mapname": "cmd_fild03", "respawnTime": 3600000 },
+      { "mapname": "gef_fild01", "respawnTime": 3600000 }
+    ]
+  },
+  "1090": {
+    "id": 1090,
+    "dbname": "MASTERING",
+    "name": { "en": "Mastering", "pt-BR": "Mastering" },
+    "stats": { "baseExperience": 157, "jobExperience": 177, "mvp": 0 },
+    "spawn": [
+      { "mapname": "pay_fild04", "respawnTime": 3600000 },
+      { "mapname": "prt_maze03", "respawnTime": 1920000 },
+      { "mapname": "xmas_dun01", "respawnTime": 1800000 },
+      { "mapname": "yuno_fild04", "respawnTime": 3600000 }
+    ]
+  },
+  "1091": {
+    "id": 1091,
+    "dbname": "DRAGON_FLY",
+    "name": { "en": "Dragon Fly", "pt-BR": "Libélula" },
+    "stats": { "baseExperience": 180, "jobExperience": 202, "mvp": 0 },
+    "spawn": [{ "mapname": "moc_fild18", "respawnTime": 3600000 }]
+  },
+  "1092": {
+    "id": 1092,
+    "dbname": "VAGABOND_WOLF",
+    "name": { "en": "Vagabond Wolf", "pt-BR": "Lobo Errante" },
+    "stats": { "baseExperience": 853, "jobExperience": 1300, "mvp": 0 },
+    "spawn": [
+      { "mapname": "prt_maze01", "respawnTime": 3600000 },
+      { "mapname": "prt_maze03", "respawnTime": 1920000 }
+    ]
+  },
+  "1093": {
+    "id": 1093,
+    "dbname": "ECLIPSE",
+    "name": { "en": "Eclipse", "pt-BR": "Eclipse" },
+    "stats": { "baseExperience": 103, "jobExperience": 116, "mvp": 0 },
+    "spawn": [
+      { "mapname": "prt_fild02", "respawnTime": 1800000 },
+      { "mapname": "prt_maze03", "respawnTime": 1920000 }
+    ]
+  },
+  "1096": {
+    "id": 1096,
+    "dbname": "ANGELING",
+    "name": { "en": "Angeling", "pt-BR": "Angeling" },
+    "stats": { "baseExperience": 1683, "jobExperience": 1346, "mvp": 0 },
+    "spawn": [
+      { "mapname": "pay_fild04", "respawnTime": 3600000 },
+      { "mapname": "xmas_dun01", "respawnTime": 3600000 },
+      { "mapname": "yuno_fild03", "respawnTime": 3600000 }
+    ]
+  },
+  "1120": {
+    "id": 1120,
+    "dbname": "GHOSTRING",
+    "name": { "en": "Ghostring", "pt-BR": "Ghostring" },
+    "stats": { "baseExperience": 2368, "jobExperience": 2233, "mvp": 0 },
+    "spawn": [
+      { "mapname": "gld_dun04", "respawnTime": 14400000 },
+      { "mapname": "pay_fild04", "respawnTime": 3600000 },
+      { "mapname": "prt_maze03", "respawnTime": 6800000 },
+      { "mapname": "treasure02", "respawnTime": 1980000 }
+    ]
+  },
+  "1203": {
+    "id": 1203,
+    "dbname": "MYSTELTAINN",
+    "name": { "en": "Mysteltainn", "pt-BR": "Mysteltainn" },
+    "stats": { "baseExperience": 5147, "jobExperience": 2742, "mvp": 0 },
+    "spawn": [
+      { "mapname": "gefenia01", "respawnTime": 10800000 },
+      { "mapname": "gefenia02", "respawnTime": 18000000 },
+      { "mapname": "gefenia03", "respawnTime": 18000000 },
+      { "mapname": "gefenia04", "respawnTime": 18000000 },
+      { "mapname": "gl_cas02", "respawnTime": 7200000 },
+      { "mapname": "gl_cas02_", "respawnTime": 7200000 },
+      { "mapname": "gl_knt02", "respawnTime": 1800000 }
+    ]
+  },
+  "1204": {
+    "id": 1204,
+    "dbname": "TIRFING",
+    "name": { "en": "Ogretooth", "pt-BR": "Tirfing" },
+    "stats": { "baseExperience": 3474, "jobExperience": 2754, "mvp": 0 },
+    "spawn": [
+      { "mapname": "gefenia01", "respawnTime": 18000000 },
+      { "mapname": "gefenia02", "respawnTime": 10800000 },
+      { "mapname": "gefenia03", "respawnTime": 18000000 },
+      { "mapname": "gefenia04", "respawnTime": 18000000 },
+      { "mapname": "gl_cas02", "respawnTime": 7200000 }
+    ]
+  },
+  "1205": {
+    "id": 1205,
+    "dbname": "EXECUTIONER",
+    "name": { "en": "Executioner", "pt-BR": "Executor" },
+    "stats": { "baseExperience": 2916, "jobExperience": 2004, "mvp": 0 },
+    "spawn": [
+      { "mapname": "gefenia01", "respawnTime": 18000000 },
+      { "mapname": "gefenia02", "respawnTime": 18000000 },
+      { "mapname": "gefenia03", "respawnTime": 10800000 },
+      { "mapname": "gefenia04", "respawnTime": 18000000 }
+    ]
+  },
+  "1302": {
+    "id": 1302,
+    "dbname": "DARK_ILLUSION",
+    "name": { "en": "Dark Illusion", "pt-BR": "Ilusão das Trevas" },
+    "stats": { "baseExperience": 4954, "jobExperience": 4549, "mvp": 0 },
+    "spawn": [
+      { "mapname": "gl_chyard", "respawnTime": 3600000 },
+      { "mapname": "gld_dun04_2", "respawnTime": 1200000 },
+      { "mapname": "gld2_gef", "respawnTime": 1200000 }
+    ]
+  },
+  "1307": {
+    "id": 1307,
+    "dbname": "CAT_O_NINE_TAIL",
+    "name": { "en": "Cat o' Nine Tails", "pt-BR": "Gato de Nove Caudas" },
+    "stats": { "baseExperience": 2074, "jobExperience": 2896, "mvp": 0 },
+    "spawn": [{ "mapname": "pay_dun04", "respawnTime": 3600000 }]
+  },
+  "1388": {
+    "id": 1388,
+    "dbname": "ARCHANGELING",
+    "name": { "en": "Arc Angeling", "pt-BR": "ArchAngeling" },
+    "stats": { "baseExperience": 1789, "jobExperience": 1455, "mvp": 0 },
+    "spawn": [{ "mapname": "yuno_fild04", "respawnTime": 3600000 }]
+  },
+  "1582": {
+    "id": 1582,
+    "dbname": "DEVILING",
+    "name": { "en": "Deviling", "pt-BR": "Deviling" },
+    "stats": { "baseExperience": 1197, "jobExperience": 1189, "mvp": 0 },
+    "spawn": [
+      { "mapname": "pay_fild04", "respawnTime": 7200000 },
+      { "mapname": "yuno_fild03", "respawnTime": 3600000 }
+    ]
+  }
+}
