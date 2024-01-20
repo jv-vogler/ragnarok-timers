@@ -1,5 +1,7 @@
 # Ragnarok Timers
 
+(WIP)
+
 This is a time tracker for Ragnarok (Pre-renewal) MVP's and Mini-bosses.
 
 _This app is not endorsed by Gravity Interactive._
